@@ -1,0 +1,15 @@
+{
+    "name": "net-info.rene-so36",
+    "description": "description of net-info",
+    "architecture": "armhf",
+    "title": "net-info",
+    "hooks": {
+        "net-info": {
+            "apparmor": "net-info.apparmor",
+            "desktop": "net-info.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "rene <rene@so36.net>",
+    "framework": "ubuntu-sdk-14.10"
+}

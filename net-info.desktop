@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=net-info
+Exec=net-info
+Icon=net-info.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
